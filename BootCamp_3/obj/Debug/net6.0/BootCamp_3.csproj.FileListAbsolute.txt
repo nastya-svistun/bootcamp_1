@@ -1,0 +1,15 @@
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\bin\Debug\net6.0\BootCamp_3.exe
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\bin\Debug\net6.0\BootCamp_3.deps.json
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\bin\Debug\net6.0\BootCamp_3.runtimeconfig.json
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\bin\Debug\net6.0\BootCamp_3.dll
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\bin\Debug\net6.0\BootCamp_3.pdb
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.csproj.AssemblyReference.cache
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.AssemblyInfoInputs.cache
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.AssemblyInfo.cs
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.csproj.CoreCompileInputs.cache
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.dll
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\refint\BootCamp_3.dll
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.pdb
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\BootCamp_3.genruntimeconfig.cache
+C:\Users\chews\OneDrive\Рабочий стол\bootcamp_1\BootCamp_3\obj\Debug\net6.0\ref\BootCamp_3.dll
